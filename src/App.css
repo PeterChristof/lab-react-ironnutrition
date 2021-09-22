@@ -1,4 +1,11 @@
 .App {
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+h1 {
   text-align: center;
 }
 
